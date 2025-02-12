@@ -90,8 +90,8 @@ main{
     text-align: center;
     background-color: var(--kit-bg);
     width: 60%;
-    padding: 30px;
-    border-radius: 20px;
+    padding: 30px 20px;
+    border-radius: 30px;
     margin: 0 auto;
 }
 
